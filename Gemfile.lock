@@ -142,5 +142,4 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 32)
   html-proofer
-  json
   rake
