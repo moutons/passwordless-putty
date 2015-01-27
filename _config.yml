@@ -1,0 +1,19 @@
+---
+baseurl: /passwordless-putty
+safe: false
+future: false
+defaults:
+  -
+    scope:
+      path: "" # empty string here indicates all files in the project
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Shaun Mouton"
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      layout: "default"
+---
