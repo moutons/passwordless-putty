@@ -11,7 +11,7 @@ This is a straightforward step-by-step guide to getting the PuTTY SSH client set
 
 ![getting PuTTY](https://i.imgur.com/ZCbC1Am.png)
 
-The download's [been here for ages](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html). Get the one marked "A Windows installer for everything except PuTTYtel".
+The download's [been here for ages](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html). Get the one marked "A Windows installer for everything except PuTTYtel".
 
 # Installer
 
